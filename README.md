@@ -1,6 +1,6 @@
 # Hi 👋, I'm Niveditha Prasad
 
-🎓 B.Tech Computer Science Graduate
+🎓 𝓑.𝓣𝓮𝓬𝓱 𝓒𝓸𝓶𝓹𝓾𝓽𝓮𝓻 𝓢𝓬𝓲𝓮𝓷𝓬𝓮 𝓖𝓻𝓪𝓭𝓾𝓪𝓽𝓮
 
 🚀 Aspiring QA Automation Engineer
 
