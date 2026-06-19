@@ -10,6 +10,8 @@
 - Java
 - Selenium
 - SQL
+- POSTMAN
+- API Testing
 - Jira
 - Git
 
