@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi 👋, I'm Niveditha Prasad
 
-<!--
-**nivedithaprasad/nivedithaprasad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Computer Science Graduate
 
-Here are some ideas to get you started:
+🚀 Aspiring QA Automation Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🛠 Skills
+- Manual Testing
+- Java
+- Selenium
+- SQL
+- Jira
+- Git
+
+## 📌 Projects
+- Manual-Testing-Project
+- Java-Practice
+- Selenium-Automation-Project
+
+⭐ Always learning and improving
