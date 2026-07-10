@@ -8,7 +8,10 @@
 ## 🛠 Skills
 - Manual Testing
 - Java
-- Selenium
+- Selenium Automation
+- SDLC
+- STLC
+-Bug Reporting
 - SQL
 - POSTMAN
 - API Testing
