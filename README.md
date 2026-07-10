@@ -11,7 +11,7 @@
 - Selenium Automation
 - SDLC
 - STLC
--Bug Reporting
+- Bug Reporting
 - SQL
 - POSTMAN
 - API Testing
