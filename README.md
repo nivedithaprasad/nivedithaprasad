@@ -37,5 +37,6 @@
 - Manual-Testing-Project
 - Java-Practice
 - Selenium-Automation-Project
+- API-Testing-Project
 
 ⭐ Always learning and improving
