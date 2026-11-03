@@ -36,7 +36,7 @@
 ## 📌 Projects
 - Manual-Testing-Project
 - Java-Practice
-- Selenium-Automation-Project
+- Playwright-Automation-Project
 - API-Testing-Project
 
 ⭐ Always learning and improving
